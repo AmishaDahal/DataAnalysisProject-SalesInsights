@@ -4,6 +4,11 @@ A complete end-to-end **Sales Analytics Dashboard** built using **MySQL + Power 
 
 ---
 
+<p align="center">
+  <img src="images/Sales_dashboard.png" width="750">
+</p>
+
+
 ## 📌 Project Overview  
 This project simulates a real business scenario where leadership needs clarity on declining sales.  
 Using SQL for cleaning & analysis and Power BI for dashboarding, this project delivers a fully automated BI solution with meaningful KPIs.
